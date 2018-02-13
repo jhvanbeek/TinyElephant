@@ -7,7 +7,7 @@
 ## Am.J.Phys. 78: 648-649, 2010
 
 ## JHGM van Beek. 13 February 2018
-## Open source software under the GNU Public License v3.
+## Open source software under the GNU General Public License v3.
 
 ## the parameters can be modified
 ## the length of the arrays can be changed if desirable
