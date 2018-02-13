@@ -11,7 +11,7 @@
 ## 
 
 ## The parameters in the equations can of be modified to experiment with drawing
-## various shapes. See also R script± ShapeExperiment.R
+## various shapes. See also R scriptÂ± ShapeExperiment.R
 
 ## Note that (y,-x) is plotted, rather than (x,y). However, this is how it appears to be plotted in the
 ## paper. 
@@ -20,7 +20,7 @@
 
 ## JHGM van Beek. 13 February 2018
 
-## Open source software under the GPU license.
+## Open source software under the GNU Public license v3.
 
 x_coordinate <- function(t) {
   x <- 50*sin(t) + 18*sin(2*t) + 12 * cos(3*t) - 14*cos(5*t)
