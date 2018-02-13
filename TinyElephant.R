@@ -20,7 +20,7 @@
 
 ## JHGM van Beek. 13 February 2018
 
-## Open source software under the GNU Public license v3.
+## Open source software under the GNU General Public License version 3.
 
 x_coordinate <- function(t) {
   x <- 50*sin(t) + 18*sin(2*t) + 12 * cos(3*t) - 14*cos(5*t)
